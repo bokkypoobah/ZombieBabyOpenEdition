@@ -30,6 +30,14 @@ Transfer 8 tokens 229,658 gas or 0.024343748 ETH ($48.85) @ 106 gwei - [0x96fcad
 
 <br />
 
+<hr />
+
+# OpenSea
+
+This NFTs using this contract is available in OpenSea at [unidentified-contract-6kgghp5vvi](https://opensea.io/assets/unidentified-contract-6kgghp5vvi?search[resultModel]=ASSETS).
+
+<br />
+
 <br />
 
 Enjoy!
